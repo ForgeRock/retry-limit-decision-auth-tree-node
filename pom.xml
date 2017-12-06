@@ -22,7 +22,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>retry-limit-decision-node</artifactId>
+    <artifactId>retry-limit-decision-auth-tree-node</artifactId>
     <groupId>org.forgerock.am</groupId>    
     <version>5.5.0</version>
     <name>Retry Limit Decision Node</name>
